@@ -1,5 +1,5 @@
 # Feed noindex
-Contributors: yat8823jp
+Contributors: YAT
 Tags: feed, noindex
 Requires at least: 8.1
 Requires PHP: 7.4
